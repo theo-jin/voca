@@ -54,13 +54,6 @@
       "id": 7
     },
     {
-      "day": "3",
-      "eng": "house",
-      "kor": "집",
-      "isDone": false,
-      "id": 8
-    },
-    {
       "day": "2",
       "eng": "mouse",
       "kor": "쥐",
@@ -80,13 +73,6 @@
       "kor": "사과",
       "isDone": false,
       "id": 11
-    },
-    {
-      "day": "3",
-      "eng": "apple",
-      "kor": "사과",
-      "isDone": false,
-      "id": 12
     }
   ]
 }
