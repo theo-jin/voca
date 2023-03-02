@@ -15,6 +15,10 @@
     {
       "day": 4,
       "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
     }
   ],
   "words": [
@@ -73,6 +77,97 @@
       "kor": "사과",
       "isDone": false,
       "id": 11
+    },
+    {
+      "day": "4",
+      "eng": "book",
+      "kor": "책",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "4",
+      "eng": "book",
+      "kor": "책",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "4",
+      "eng": "story",
+      "kor": "이야기",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "4",
+      "eng": "book",
+      "kor": "책",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "4",
+      "eng": "story",
+      "kor": "이야기",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "4",
+      "eng": "python",
+      "kor": "파이썬",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱ",
+      "kor": "ㅂㅈㄷㄱ",
+      "isDone": false,
+      "id": 18
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱ",
+      "kor": "ㅂㅈㄷㄱ",
+      "isDone": false,
+      "id": 19
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱhttp://localhost:3000/create_word",
+      "kor": "ㅂㅈㄷㄱ",
+      "isDone": false,
+      "id": 20
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱ",
+      "kor": "ㄱㄱㄱ",
+      "isDone": false,
+      "id": 21
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱ",
+      "kor": "ㄱㄱㄱ",
+      "isDone": false,
+      "id": 22
+    },
+    {
+      "day": "1",
+      "eng": "story",
+      "kor": "이야기",
+      "isDone": false,
+      "id": 23
+    },
+    {
+      "day": "5",
+      "eng": "miracle",
+      "kor": "기적",
+      "isDone": false,
+      "id": 24
     }
   ]
 }
