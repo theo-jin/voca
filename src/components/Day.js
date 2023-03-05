@@ -8,6 +8,7 @@ export default function Day(){
   if(words.length===0){
     return <span>Loading....</span>
    }
+
   return(
     <>
     <h2>Day {day}</h2>

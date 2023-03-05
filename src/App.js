@@ -1,6 +1,6 @@
 import Day from "./components/Day";
 import DayList from "./components/DayList";
-import Header from "./components/Header";
+import Header from "./common/components/Header";
 import { BrowserRouter,Route,Routes } from "react-router-dom";
 import CreateWord from "./components/CreateWord";
 import CreateDay from "./components/CreateDay";

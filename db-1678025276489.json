@@ -19,14 +19,6 @@
     {
       "day": 5,
       "id": 5
-    },
-    {
-      "day": 6,
-      "id": 6
-    },
-    {
-      "day": 7,
-      "id": 7
     }
   ],
   "words": [
@@ -127,6 +119,41 @@
       "kor": "파이썬",
       "isDone": false,
       "id": 17
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱ",
+      "kor": "ㅂㅈㄷㄱ",
+      "isDone": false,
+      "id": 18
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱ",
+      "kor": "ㅂㅈㄷㄱ",
+      "isDone": false,
+      "id": 19
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱhttp://localhost:3000/create_word",
+      "kor": "ㅂㅈㄷㄱ",
+      "isDone": false,
+      "id": 20
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱ",
+      "kor": "ㄱㄱㄱ",
+      "isDone": false,
+      "id": 21
+    },
+    {
+      "day": "4",
+      "eng": "ㅂㅈㄷㄱ",
+      "kor": "ㄱㄱㄱ",
+      "isDone": false,
+      "id": 22
     },
     {
       "day": "1",
